@@ -1,171 +1,167 @@
 ---
 
-
 - taxonomy: 个人常用链接
   icon: far fa-star
   links:
     - title: "谷歌新闻"
-      logo: ""
+      logo: "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
       url: "https://news.google.com/home?hl=zh-CN"
-      description: "  "
+      description: "谷歌新闻，提供全球最新的新闻报道和热点话题。"
     - title: B站创作者中心
-      logo: ""
+      logo: "https://www.bilibili.com/favicon.ico"
       url: "https://member.bilibili.com/platform/home"
-      description: "  "
+      description: "B站创作者中心，提供视频上传、直播、互动、数据分析等功能。"
     - title: b站开播
-      logo: ""
+      logo: "https://www.bilibili.com/favicon.ico"
       url: "https://link.bilibili.com/p/center/index?spm_id_from=333.1007.0.0#/my-room/start-live"
-      description: "  "
+      description: "b站开播，提供直播间设置、开启直播、直播工具等功能。"
     - title: b站弹幕
-      logo: ""
-      url: "  "
-      description: "https://play-live.bilibili.com/plugins-full/1658719107965?Timestamp=1683904575&RoomId=22855472&Mid=494408488&Caller=bilibili&Sign=92b35e54f144c58c5b8100891fe136502b9a76de04c9ceeb6d834e4ecad9b414&Code=BPAO1ZN8F2TC8&CodeSign=3065797edc8dfdc5c014984bfbafe799dd219abdc5106e02b1def7cb50d90277&plug_env=0"
+      logo: "https://www.bilibili.com/favicon.ico"
+      url: "https://play-live.bilibili.com/plugins-full/1658719107965?Timestamp=1683904575&RoomId=22855472&Mid=494408488&Caller=bilibili&Sign=92b35e54f144c58c5b8100891fe136502b9a76de04c9ceeb6d834e4ecad9b414&Code=BPAO1ZN8F2TC8&CodeSign=3065797edc8dfdc5c014984bfbafe799dd219abdc5106e02b1def7cb50d90277&plug_env=0"
+      description: "b站弹幕，提供直播间弹幕发送、查看、管理等功能。"
     - title: SQN飞书协作
-      logo: ""
+      logo: "https://www.feishu.cn/favicon.ico"
       url: "https://no1bydk7px.feishu.cn/drive/me/"
-      description: "  "
+      description: "SQN飞书协作，提供文档、表格、日历、云盘等协作工具。"
     - title: NAS首页188
-      logo: ""
+      logo: "http://192.168.1.188:9999/home/logo.ico"
       url: "http://192.168.1.188:9999/home/#/desktop"
-      description: "  "
+      description: "NAS首页188，提供网络存储设备的管理和访问功能。"
     - title: 路由器250
-      logo: ""
+      logo: "http://192.168.1.250/images/favicon.png"
       url: "http://192.168.1.250/"
-      description: "  "
+      description: "路由器250，提供路由器的设置和管理功能。"
     - title: hao6v
-      logo: ""
+      logo: "http://www.hao6v.com/favicon.ico"
       url: "http://www.hao6v.com/"
-      description: "  "
+      description: "hao6v，提供电影、电视剧、动漫等资源的下载和在线观看功能。"
     - title: TAP创作者中心
-      logo: ""
+      logo: "https://www.taptap.cn/favicon.ico"
       url: "https://www.taptap.cn/creator"
-      description: "  "
+      description: "TAP创作者中心，提供游戏视频上传、直播、互动、数据分析等功能。"
     - title: 塔噗TapU
-      logo: ""
+      logo: "https://tapu.taptap.cn/favicon.ico"
       url: "https://tapu.taptap.cn/"
-      description: "  "
+      description: "塔噗TapU，提供游戏社区的创建和管理功能。"
     - title: 斗鱼开播
-      logo: ""
+      logo: "https://mp.douyu.com/favicon.ico"
       url: "https://mp.douyu.com/live/main"
-      description: "  "
+      description: "斗鱼开播，提供直播间设置、开启直"
     - title: LSX-ChatUI
-      logo: ""
+      logo: "https://lsx-chatui.azurewebsites.net/favicon.ico"
       url: "https://lsx-chatui.azurewebsites.net/zh"
-      description: "  "    
+      description: "LSX-ChatUI，提供聊天界面的设计和开发功能。"
     - title: Steam
-      logo: ""
+      logo: "https://store.steampowered.com/favicon.ico"
       url: "https://store.steampowered.com/"
-      description: "  "
+      description: "Steam，提供游戏的购买、下载、更新、社区等功能。"
     - title: "Epic Store"
-      logo: ""
+      logo: "https://store.epicgames.com/favicon.ico"
       url: "https://store.epicgames.com/"
-      description: "  "
+      description: "Epic Store，提供游戏的购买、下载、更新、社区等功能。"
     - title: "Xbox News"
-      logo: ""
+      logo: "https://news.xbox.com/en-us/wp-content/themes/xbox-news/assets/images/xbox-logo.svg"
       url: "https://news.xbox.com/en-us/"
-      description: "  "
+      description: "Xbox News，提供Xbox相关的新闻、活动、视频等信息。"   
     - title: "Azure VMS"
-      logo: ""
+      logo: "https://azure.microsoft.com/svghandler/virtual-machines/?width=48&height=48"
       url: "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FVirtualMachines"
-      description: "  "
+      description: "Azure VMS，提供虚拟机的创建、管理、监控等功能。"
     - title: "OneDrive网盘"
-      logo: ""
+      logo: "https://c.s-microsoft.com/favicon.ico?v2"
       url: "https://onedrive.live.com/"
-      description: "  "
+      description: "OneDrive网盘，提供云存储、文件同步、分享等功能。"
     - title: "百度网盘"
-      logo: ""
+      logo: "https://pan.baidu.com/favicon.ico"
       url: "https://pan.baidu.com/disk/main#/index?category=all"
-      description: "  "
+      description: "百度网盘，提供云存储、文件同步、分享等功能。"
     - title: "阿里网盘"
-      logo: ""
+      logo: "https://www.aliyundrive.com/favicon.ico"
       url: "https://www.aliyundrive.com/drive/"
-      description: "  "
+      description: "阿里网盘，提供云存储、文件同步、分享等功能。"
     - title: 觞穷牛公众号
-      logo: ""
+      logo: "https://limin-sites.github.io/as/assets/my-img/weixin-qr.png"
       url: "https://mp.weixin.qq.com/s/IOa320D49WHSqjUF-Ra2kg"
       qrcode: "https://limin-sites.github.io/as/assets/my-img/weixin-qr.png"
       description: 公众号
     - title: 微信公众平台
-      logo: ""
+      logo: "https://mp.weixin.qq.com/favicon.ico"
       url: "https://mp.weixin.qq.com/cgi-bin/home"
       qrcode: "https://limin-sites.github.io/as/assets/my-img/weixin-qr.png"
       description: 公众号
     - title: "y99开黑-sqn"
-      logo: ""
+      logo: "https://y99.in/favicon.ico"
       url: "https://y99.in/r/343789"
       description: "遊戲开黑交流房,匿名聊天|不受监管|打开网页即可开黑语聊 还能共享桌面协助解决问题 房间地址：https://y99.in/r/343789浏览器或微信里面上点开后 输入自己的昵称 昵称尽量带上xbox或游戏或B站昵称 这们方便沟通。然后在点击 【 觞穷牛开黑聊天房 】JOIN CHAT 输入密码：xbsqn 加入即可"
     - title: "y99开黑-Meeting"
-      logo: ""
+      logo: "https://y99.in/favicon.ico"
       url: "https://meet.y99.in/ZUZ6TTH54QPWFH626RNPB"
       description: "遊戲开黑交流房,匿名聊天|不受监管|打开网页即可开黑语聊 还能共享桌面协助解决问题 房间地址：https://y99.in/r/343789浏览器或微信里面上点开后 输入自己的昵称 昵称尽量带上xbox或游戏或B站昵称 这们方便沟通。然后在点击 【 觞穷牛开黑聊天房 】JOIN CHAT 输入密码：xbsqn 加入即可"
 
 - taxonomy: 工作与技术
-  icon: far fa-star
+  icon: far fa-envelope-open
   links:
     - title: "Azure Portal"
-      logo: ""
+      logo: "https://azure.microsoft.com/svghandler/azure-portal/?width=48&height=48"
       url: "https://portal.azure.com/"
-      description: "  "
+      description: "Azure Portal，提供Azure服务的管理、监控、部署等功能。"
     - title: "SharePoint"
-      logo: ""
+      logo: "https://c.s-microsoft.com/favicon.ico?v2"
       url: "https://leansoftchina.sharepoint.com/sites/publicsquare/Shared%20Documents/Forms/AllItems.aspx"
-      description: "  "
+      description: "SharePoint，提供文档管理、协作、共享等功能。"
     - title: "ADS云-AISE"
-      logo: ""
+      logo: "https://cdn.vsassets.io/content/icons/favicon.ico"
       url: "https://dev.azure.com/leansoftx/AISE"
-      description: "  "
+      description: "ADS云-AISE，提供Azure DevOps服务的项目管理、代码托管、持续集成等功能。"
     - title: "Office365最近活动"
-      logo: ""
+      logo: "https://c.s-microsoft.com/favicon.ico?v2"
       url: "https://apc.delve.office.com/?u=88cd0ba9-9e28-4d00-a58e-7ce0ec946f76&v=work"
-      description: "  "
+      description: "Office365最近活动，提供Office365用户的最近工作动态和相关信息。"
     - title: "LSX-TFS"
-      logo: ""
+      logo: "https://tfs.devopshub.cn/favicon.ico"
       url: "https://tfs.devopshub.cn/leansoft/ProjectManagement"
-      description: "  "
+      description: "LSX-TFS，提供Team Foundation Server服务的项目管理、代码托管、持续集成等功能。"
     - title: "TFSVM-249"
-      logo: ""
+      logo: "https://cdn.vsassets.io/content/icons/favicon.ico"
       url: "http://tfsv.southeastasia.cloudapp.azure.com:8080/"
-      description: "  "
+      description: "TFSVM-249，提供Team Foundation Server服务的虚拟机访问地址。"
     - title: "LSX-飞书协作"
-      logo: ""
+      logo: "https://leansoftx.feishu.cn/favicon.ico"
       url: "https://leansoftx.feishu.cn/drive/home/"
-      description: "  "
+      description: "LSX-飞书协作，提供飞书服务的文档管理、协作、共享等功能。"
     - title: "lsx-chatui"
-      logo: ""
+      logo: "https://lsx-chatui.azurewebsites.net/favicon.ico"
       url: "https://lsx-chatui.azurewebsites.net/zh"
-      description: "  "
+      description: "lsx-chatui，提供聊天界面的设计和开发功能。"
     - title: "LSX-Github"
-      logo: ""
+      logo: "https://github.githubassets.com/favicons/favicon.svg"
       url: "https://github.com/leansoftX/"
-      description: "  "
+      description: "LSX-Github，提供Github服务的代码托管、协作、开源等功能。"
     - title: "ADS-REST-API"
-      logo: ""
+      logo: "https://cdn.vsassets.io/content/icons/favicon.ico"
       url: "https://learn.microsoft.com/zh-cn/rest/api/azure/devops/wit/work-item-relation-types/list?view=azure-devops-server-rest-7.0&tabs=HTTP"
-      description: "  "
+      description: "ADS-REST-API，提供Azure DevOps服务的REST API文档和示例。"
     - title: "Gitee图床"
-      logo: ""
+      logo: "https://gitee.com/favicon.ico"
       url: "https://gitee.com/liminany-lxm/imgs/wikis/w-imgs"
-      description: "  "
+      description: "Gitee图床，提供Gitee服务的图片存储和访问功能。"
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
     - title: Md2X 定制版
       logo: mdx.png
+      url: https://md
+    - title: Md2X 定制版
+      logo: mdx.png
       url: https://mdx.ncbix.com/
-      description: Markdown 排版利器 Md2All 定制版。
-      
+      description: Markdown 排版利器 Md2All 定制版。      
     - title: "azure portal"
       logo: ""
       url: "https://portal.azure.com/"
-      description: "  "
-    - title: "azure portal"
-      logo: ""
-      url: "https://y99.in/r/343789"
-      description: "  "
 
 - taxonomy: 新闻资讯
-  icon: far fa-star
+  icon: far fa-newspaper
   links:
     - title: 前端日报
       logo: https://qnmlgb.tech/daily/favicon.ico
@@ -277,7 +273,7 @@
       description: Twitter 提供全球的信息流和社交功能。
 
 - taxonomy: 常用网站
-  icon: far fa-star
+  icon: far fa-sticky-note
   links:    
     - title: 豆瓣电影
       logo: https://movie.douban.com/favicon.ico

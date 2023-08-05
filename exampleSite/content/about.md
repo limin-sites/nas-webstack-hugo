@@ -1,10 +1,20 @@
 ---
-title: "关于网站"
-date: 2020-07-28T19:27:08+08:00
+title: "关于......"
+date: 2023-08-05T18:27:08+08:00
 draft: false
 ---
 
-#### 这是 Hugo 版 WebStack 主题
+### 关于我
+
+limin的网址导航 IT码农|游戏|科技|发烧友
+
+TODO
+
+### 关于本网址导航
+
+本站仓库地址：https://github.com/limin-sites/nas-webstack-hugo.git
+
+---------------------------------以下为 Web Stack 主题网址导航说明----------------------------------------------
 
 本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
 

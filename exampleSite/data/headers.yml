@@ -41,7 +41,11 @@
   link: ""
   list:
     - name: 我是谁？
-      url: "https://github.com/limin-sites/nas-webstack-hugo"
+      url: "./about"
+    - name: 友情链接
+      url: "#friendlink"
+    - name: 提交网站
+      url: "https://github.com/limin-sites/nas-webstack-hugo"          
     - name: 本导航源码
       url: "https://github.com/limin-sites/nas-webstack-hugo"
     - name: 导航搭建教程(沈维燕)

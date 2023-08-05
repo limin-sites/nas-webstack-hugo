@@ -26,14 +26,14 @@
 
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                         {{ range .Site.Data.headers }}
-			<li {{ if .list }}class="menu-item-has-children"{{ end }}>
-				<a href="{{ .link }}">
-                                    <i class="{{ .icon }} fa-lg mr-2"></i>
-                                    <span>{{ .item }}</span>
-                                </a>
+                <li {{ if .list }}class="menu-item-has-children"{{ end }}>
+                    <a  target="_blank" href="{{ .link }}">
+                                        <i class="{{ .icon }} fa-lg mr-2"></i>
+                                        <span>{{ .item }}</span>
+                                    </a>
 				<ul class="sub-menu">
 				{{ range .list }}
-				    <li><a href="{{ .url }}">{{ .name }}</a></li>
+				    <li><a target="_blank" href="{{ .url }}">{{ .name }}</a></li>
 				{{ end }}
 				</ul>
 			    </li>
