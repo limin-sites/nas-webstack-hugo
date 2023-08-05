@@ -148,14 +148,7 @@
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://md
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器 Md2All 定制版。      
+      description: 中文开源技术交流社区。  
     - title: "azure portal"
       logo: ""
       url: "https://portal.azure.com/"
@@ -813,5 +806,3 @@
           url: http://mustsee.earth/
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
-
-
