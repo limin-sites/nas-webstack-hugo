@@ -1,17 +1,292 @@
 ---
 
-- taxonomy: 常用推荐
+
+- taxonomy: 个人常用链接
   icon: far fa-star
-  links: 
-    - title: 关注我们
+  links:
+    - title: "谷歌新闻"
       logo: ""
-      url: https://bioitee.com
-      qrcode: assets/images/logos/qrcode.jpg
-      description: BioIT 爱好者！
-    - title: 语雀
-      logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
+      url: "https://news.google.com/home?hl=zh-CN"
+      description: "  "
+    - title: B站创作者中心
+      logo: ""
+      url: "https://member.bilibili.com/platform/home"
+      description: "  "
+    - title: b站开播
+      logo: ""
+      url: "https://link.bilibili.com/p/center/index?spm_id_from=333.1007.0.0#/my-room/start-live"
+      description: "  "
+    - title: b站弹幕
+      logo: ""
+      url: "  "
+      description: "https://play-live.bilibili.com/plugins-full/1658719107965?Timestamp=1683904575&RoomId=22855472&Mid=494408488&Caller=bilibili&Sign=92b35e54f144c58c5b8100891fe136502b9a76de04c9ceeb6d834e4ecad9b414&Code=BPAO1ZN8F2TC8&CodeSign=3065797edc8dfdc5c014984bfbafe799dd219abdc5106e02b1def7cb50d90277&plug_env=0"
+    - title: SQN飞书协作
+      logo: ""
+      url: "https://no1bydk7px.feishu.cn/drive/me/"
+      description: "  "
+    - title: NAS首页188
+      logo: ""
+      url: "http://192.168.1.188:9999/home/#/desktop"
+      description: "  "
+    - title: 路由器250
+      logo: ""
+      url: "http://192.168.1.250/"
+      description: "  "
+    - title: hao6v
+      logo: ""
+      url: "http://www.hao6v.com/"
+      description: "  "
+    - title: TAP创作者中心
+      logo: ""
+      url: "https://www.taptap.cn/creator"
+      description: "  "
+    - title: 塔噗TapU
+      logo: ""
+      url: "https://tapu.taptap.cn/"
+      description: "  "
+    - title: 斗鱼开播
+      logo: ""
+      url: "https://mp.douyu.com/live/main"
+      description: "  "
+    - title: LSX-ChatUI
+      logo: ""
+      url: "https://lsx-chatui.azurewebsites.net/zh"
+      description: "  "    
+    - title: Steam
+      logo: ""
+      url: "https://store.steampowered.com/"
+      description: "  "
+    - title: "Epic Store"
+      logo: ""
+      url: "https://store.epicgames.com/"
+      description: "  "
+    - title: "Xbox News"
+      logo: ""
+      url: "https://news.xbox.com/en-us/"
+      description: "  "
+    - title: "Azure VMS"
+      logo: ""
+      url: "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FVirtualMachines"
+      description: "  "
+    - title: "OneDrive网盘"
+      logo: ""
+      url: "https://onedrive.live.com/"
+      description: "  "
+    - title: "百度网盘"
+      logo: ""
+      url: "https://pan.baidu.com/disk/main#/index?category=all"
+      description: "  "
+    - title: "阿里网盘"
+      logo: ""
+      url: "https://www.aliyundrive.com/drive/"
+      description: "  "
+    - title: 觞穷牛公众号
+      logo: ""
+      url: "https://mp.weixin.qq.com/s/IOa320D49WHSqjUF-Ra2kg"
+      qrcode: "https://limin-sites.github.io/as/assets/my-img/weixin-qr.png"
+      description: 公众号
+    - title: 微信公众平台
+      logo: ""
+      url: "https://mp.weixin.qq.com/cgi-bin/home"
+      qrcode: "https://limin-sites.github.io/as/assets/my-img/weixin-qr.png"
+      description: 公众号
+    - title: "y99开黑-sqn"
+      logo: ""
+      url: "https://y99.in/r/343789"
+      description: "遊戲开黑交流房,匿名聊天|不受监管|打开网页即可开黑语聊 还能共享桌面协助解决问题 房间地址：https://y99.in/r/343789浏览器或微信里面上点开后 输入自己的昵称 昵称尽量带上xbox或游戏或B站昵称 这们方便沟通。然后在点击 【 觞穷牛开黑聊天房 】JOIN CHAT 输入密码：xbsqn 加入即可"
+    - title: "y99开黑-Meeting"
+      logo: ""
+      url: "https://meet.y99.in/ZUZ6TTH54QPWFH626RNPB"
+      description: "遊戲开黑交流房,匿名聊天|不受监管|打开网页即可开黑语聊 还能共享桌面协助解决问题 房间地址：https://y99.in/r/343789浏览器或微信里面上点开后 输入自己的昵称 昵称尽量带上xbox或游戏或B站昵称 这们方便沟通。然后在点击 【 觞穷牛开黑聊天房 】JOIN CHAT 输入密码：xbsqn 加入即可"
+
+- taxonomy: 工作与技术
+  icon: far fa-star
+  links:
+    - title: "Azure Portal"
+      logo: ""
+      url: "https://portal.azure.com/"
+      description: "  "
+    - title: "SharePoint"
+      logo: ""
+      url: "https://leansoftchina.sharepoint.com/sites/publicsquare/Shared%20Documents/Forms/AllItems.aspx"
+      description: "  "
+    - title: "ADS云-AISE"
+      logo: ""
+      url: "https://dev.azure.com/leansoftx/AISE"
+      description: "  "
+    - title: "Office365最近活动"
+      logo: ""
+      url: "https://apc.delve.office.com/?u=88cd0ba9-9e28-4d00-a58e-7ce0ec946f76&v=work"
+      description: "  "
+    - title: "LSX-TFS"
+      logo: ""
+      url: "https://tfs.devopshub.cn/leansoft/ProjectManagement"
+      description: "  "
+    - title: "TFSVM-249"
+      logo: ""
+      url: "http://tfsv.southeastasia.cloudapp.azure.com:8080/"
+      description: "  "
+    - title: "LSX-飞书协作"
+      logo: ""
+      url: "https://leansoftx.feishu.cn/drive/home/"
+      description: "  "
+    - title: "lsx-chatui"
+      logo: ""
+      url: "https://lsx-chatui.azurewebsites.net/zh"
+      description: "  "
+    - title: "LSX-Github"
+      logo: ""
+      url: "https://github.com/leansoftX/"
+      description: "  "
+    - title: "ADS-REST-API"
+      logo: ""
+      url: "https://learn.microsoft.com/zh-cn/rest/api/azure/devops/wit/work-item-relation-types/list?view=azure-devops-server-rest-7.0&tabs=HTTP"
+      description: "  "
+    - title: "Gitee图床"
+      logo: ""
+      url: "https://gitee.com/liminany-lxm/imgs/wikis/w-imgs"
+      description: "  "
+    - title: 开源中国
+      logo: 开源中国.jpg
+      url: https://www.oschina.net/
+      description: 中文开源技术交流社区。
+    - title: Md2X 定制版
+      logo: mdx.png
+      url: https://mdx.ncbix.com/
+      description: Markdown 排版利器 Md2All 定制版。
+      
+    - title: "azure portal"
+      logo: ""
+      url: "https://portal.azure.com/"
+      description: "  "
+    - title: "azure portal"
+      logo: ""
+      url: "https://y99.in/r/343789"
+      description: "  "
+
+- taxonomy: 新闻资讯
+  icon: far fa-star
+  links:
+    - title: 前端日报
+      logo: https://qnmlgb.tech/daily/favicon.ico
+      url: https://qnmlgb.tech/daily
+      description: 前端日报 提供最新的前端技术和资讯。
+    - title: TopHub
+      logo: https://tophub.today/favicon.ico
+      url: https://tophub.today/c/news
+      description: TopHub 提供最热门的新闻和话题。
+    - title: 数字尾巴
+      logo: https://www.dgtle.com/favicon.ico
+      url: https://www.dgtle.com/news
+      description: 数字尾巴 提供最有趣的数码和生活资讯。
+    - title: 多媒体
+      logo: https://duomoyu.com/favicon.ico
+      url: https://duomoyu.com/
+      description: 多媒体 提供最新的娱乐和影视资讯。
+    - title: 创业邦快讯
+      logo: https://www.cyzone.cn/favicon.ico
+      url: https://www.cyzone.cn/quicknews
+      description: 创业邦快讯 提供最及时的创业和投资资讯。
+    - title: IT之家
+      logo: https://www.ithome.com/favicon.ico
+      url: https://www.ithome.com/
+      description: IT之家 提供最全面的IT和科技资讯。
+    - title: ZAKER新闻
+      logo: https://www.myzaker.com/favicon.ico
+      url: https://www.myzaker.com/?pos=selected_article
+      description: ZAKER新闻,提供个性化的新闻阅读和视频服务。
+    - title: 抽屉新热榜
+      logo: https://dig.chouti.com/favicon.ico
+      url: https://dig.chouti.com/recommend
+      description: 抽屉新热榜 提供最有趣的网友分享和评论。
+    - title: 品玩快报
+      logo: https://www.pingwest.com/favicon.ico
+      url: https://www.pingwest.com/status
+      description: 品玩快报 提供最专业的科技和商业资讯。
+    - title: 博客园新闻频道
+      logo: https://news.cnblogs.com/favicon.ico
+      url: https://news.cnblogs.com/
+      description: 博客园新闻频道 提供最权威的开发者资讯。
+    - title: 星河动态
+      logo: https://xinghe.starsee.cn/favicon.ico
+      url: https://xinghe.starsee.cn/pages/dynamic/dynamic
+      description: 星河动态 提供最前沿的科学和探索资讯。
+    - title: InfoQ新闻频道
+      logo: https://www.infoq.cn/favicon.ico
+      url: https://www.infoq.cn/news
+      description: InfoQ新闻频道 提供最深入的软件开发资讯。
+    - title: 巴哈姆特电玩资讯站
+      logo: https://gnn.gamer.com.tw/favicon.ico
+      url: https://gnn.gamer.com.tw/
+      description: 巴哈姆特电玩资讯站 提供最全面的游戏和动漫资讯。
+    - title: 巴哈姆特电玩资讯站
+      logo: https://gnn.gamer.com.tw/favicon.ico
+      url: https://acg.gamer.com.tw/index.php?t=1&p=iOS
+      description:  ACG动漫网站 - 巴哈姆特动画疯 iOS 版本更新公告区 - 巴哈姆特动画疯 iOS 版本更新公告区 - 巴哈姆特动画疯 iOS 版本更新公告区 - 巴哈姆特动画疯 iOS 版本更新公告
+    - title: 3DMGAME
+      logo: https://www.3dmgame.com/favicon.ico
+      url: https://www.3dmgame.com/news/game/ 
+      description: 3DMGAME 提供最新的游戏新闻和下载服务。
+    - title: 游侠新闻
+      logo: https://www.ali213.net/favicon.ico
+      url: https://www.ali213.net/news/
+      description: 游侠新闻 提供最新的游戏新闻和下载服务。
+    - title: 知微数据
+      logo: https://ef.zhiweidata.com/favicon.ico
+      url: https://ef.zhiweidata.com/
+      description: 知微数据 提供最专业的数据分析和可视化服务。
+    - title: 新浪新闻
+      logo: https://news.sina.com.cn/favicon.ico
+      url: https://news.sina.com.cn/
+      description: 新浪新闻 提供最新最全的新闻资讯。
+    - title: 网易新闻
+      logo: https://news.163.com/favicon.ico
+      url: https://news.163.com/
+      description: 网易新闻 提供最快最全的新闻资讯。
+    - title: 腾讯新闻
+      logo: https://news.qq.com/favicon.ico
+      url: https://news.qq.com/
+      description: 腾讯新闻 提供最权威最及时的新闻资讯。
+    - title: 搜狐新闻
+      logo: https://news.sohu.com/favicon.ico
+      url: https://news.sohu.com/
+      description: 搜狐新闻 提供最丰富最深入的新闻资讯。
+    - title: 凤凰网
+      logo: https://www.ifeng.com/favicon.ico
+      url: https://www.ifeng.com/
+      description: 凤凰网 提供最专业最全面的新闻资讯。
+    - title: 今日头条
+      logo: https://www.toutiao.com/favicon.ico
+      url: https://www.toutiao.com/
+      description: 今日头条 提供个性化的新闻推荐和视频服务。
+    - title: 豆瓣
+      logo: https://www.douban.com/favicon.ico
+      url: https://www.douban.com/
+      description: 豆瓣 提供文化生活和社交服务。
+    - title: 知乎
+      logo: https://www.zhihu.com/favicon.ico
+      url: https://www.zhihu.com/
+      description: 知乎 提供高质量的问答和内容服务。
+    - title: 微博
+      logo: https://weibo.com/favicon.ico
+      url: https://weibo.com/
+      description: 微博 提供实时的信息流和社交功能。
+    - title: Twitter
+      logo: https://twitter.com/favicon.ico
+      url: https://twitter.com/
+      description: Twitter 提供全球的信息流和社交功能。
+
+- taxonomy: 常用网站
+  icon: far fa-star
+  links:    
+    - title: 豆瓣电影
+      logo: https://movie.douban.com/favicon.ico
+      url: https://movie.douban.com/
+      description: 豆瓣电影 提供最新最全的电影资讯和评价。  
+    - title: 工具箱大全
+      logo: qq邮箱.png
+      url: https://tool.lu/
+      description: 腾讯 QQ 邮箱。   
     - title: QQ 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
@@ -19,27 +294,11 @@
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: CODING
-      logo: coding.png
-      url: https://shenweiyan.coding.net/user/projects
-      description: 个人 CODING 代码托管。
-    - title: GitHub
-      logo: github.jpg
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
-    - title: 搜狗微信
+      description: 中文开源技术交流社区。  
+    - title: 搜狗微信搜索
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
+      description: 搜狗微信搜索 一搜即达。
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
@@ -48,41 +307,82 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-    - title: 语雀话题
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
-      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
+- taxonomy: 游戏网站
+  icon: fas fa-gamepad
+  links:
+    - title: 腾讯游戏
+      logo: https://game.qq.com/favicon.ico
+      url: https://game.qq.com/
+      description: 腾讯游戏 中国最大的游戏平台。
+    - title: 网易游戏
+      logo: https://game.163.com/favicon.ico
+      url: https://game.163.com/
+      description: 网易游戏 中国最具创新力的游戏公司。
+    - title: 4399小游戏
+      logo: http://www.4399.com/favicon.ico
+      url: http://www.4399.com/
+      description: 4399小游戏 提供海量的免费在线小游戏。
+    - title: 7k7k小游戏
+      logo: http://www.7k7k.com/favicon.ico
+      url: http://www.7k7k.com/
+      description: 7k7k小游戏 提供最新最热的小游戏大全。
+    - title: Steam
+      logo: https://store.steampowered.com/favicon.ico
+      url: https://store.steampowered.com/
+      description: Steam 全球最大的数字发行平台。
+    - title: Epic Games Store
+      logo: https://www.epicgames.com/store/favicon.ico
+      url: https://www.epicgames.com/store/
+      description: Epic Games Store 提供高质量的独立和大作游戏。
+    - title: GOG.com
+      logo: https://www.gog.com/favicon.ico
+      url: https://www.gog.com/
+      description: GOG.com 提供无DRM的经典和新颖游戏。
+    - title: Origin
+      logo: https://www.origin.com/favicon.ico
+      url: https://www.origin.com/
+      description: Origin EA旗下的数字发行平台。
+    - title: Uplay
+      logo: https://store.ubi.com/favicon.ico
+      url: https://store.ubi.com/
+      description: Uplay 育碧旗下的数字发行平台。
+    - title: Battle.net
+      logo: https://www.blizzard.com/favicon.ico
+      url: https://www.blizzard.com/
+      description: Battle.net 暴雪旗下的数字发行平台。
 
-- taxonomy: 科研办公
+- taxonomy: 影视音乐
+  icon: far fa-play-circle
+  links:
+    - title: QQ 音乐
+      logo: QQ音乐.jpg
+      url: https://y.qq.com/
+      description: QQ 音乐 在线听歌。
+    - title: 网易云音乐
+      logo: 网易云音乐.jpg
+      url: https://music.163.com/
+      description: 163 网易云音乐。
+    - title: 电影天堂（DYTT8）
+      logo: 电影天堂.png
+      url: https://www.dytt8.net/index.htm
+      description: 电影天堂（DYTT8） 高清电影下载。
+    - title: 电影天堂（DYGOD）
+      logo: 电影天堂.png
+      url: https://www.dygod.net/
+      description: 电影天堂（DYGOD） 高清电影下载。
+    - title: 酷狗音乐
+      logo: http://www.kugou.com/favicon.ico
+      url: http://www.kugou.com/
+      description: 酷狗音乐 提供海量正版音乐在线试听和下载。
+    - title: 网易云音乐
+      logo: https://music.163.com/favicon.ico
+      url: https://music.163.com/
+      description: 网易云音乐 提供个性化的音乐推荐和社交功能。
+
+- taxonomy: 办公与技术
   icon: fas fa-flask fa-lg
-  list:
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
+  list:   
     - term: 云服务器
       links:
         - title: 阿里云
@@ -92,11 +392,11 @@
         - title: 腾讯云
           logo: 腾讯云.jpg
           url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
+          description: 产业智变 云启未来。
         - title: 华为云
           logo: 华为云.png
           url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
+          description: 提供云计算服务+智能 见未来-华为云。
         - title: 云筏科技
           logo: ''
           url: https://my.cloudraft.cn/
@@ -114,7 +414,7 @@
         - title: 有道词典
           logo: 有道词典.png
           url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
+          description: 免费 即时的多语种在线翻译。
         - title: 有道翻译
           logo: 有道词典.png
           url: http://fanyi.youdao.com/
@@ -127,78 +427,60 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-        
-
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
+    
+- taxonomy: 资讯学习
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: 资讯书籍
       links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
-    - term: 游戏竞技
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书电脑版。
+        - title: 书栈网
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载。
+    - term: 博客论坛
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
-      
-- taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 网盘资源
+        - title: Inoreader
+          url: https://www.inoreader.com/
+          logo: inoreader.jpg
+          description: 重新掌控你的新闻订阅源。
+        - title: Hacker News
+          url: https://news.ycombinator.com/
+          logo: hacker-news.jpg
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+        - title: 经管之家
+          url: https://bbs.pinggu.org/
+          logo: 经管之家.jpg
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰 科技爱好者周刊。
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: ''
+          description: 酷 壳 – CoolShell。   
+    - term: 视频教程
       links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: doyoudo.png
+          description: 创意设计软件学习平台。
+        - title: 没位道
+          url: http://www.c945.com/web-ui-tutorial/
+          logo: web_ui_tutorial.png
+          description: WEB UI免费视频公开课。
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: imooc.png
+          description: 程序员的梦工厂（有UI课程）。
+    
+- taxonomy: 设计与开发
+  icon: fas fa-tools fa-lg
+  list:    
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -300,7 +582,7 @@
         - title: 我图网
           logo: wotu.png
           url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
+          description: 我图网 提供图片素材及模板下载 专注正版设计作品交易。
         - title: 90 设计
           logo: 90sheji.png
           url: http://90sheji.com/
@@ -324,79 +606,17 @@
         - title: 素材中国
           logo: sccnn.png
           url: http://www.sccnn.com/
-          description: 免费素材共享平台。
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.png
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
+          description: 免费素材共享平台。     
     - term: PPT资源
       links:
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
+          description: OfficePLUS 微软Office官方在线模板网站！
         - title: 优品PPT
           url: http://www.ypppt.com/
           logo: ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
+          description: 高质量的模版 而且还有PPT图表 PPT背景图等资源。
         - title: PPT+
           url: http://www.pptplus.cn/
           logo: pptplus.png
@@ -413,41 +633,6 @@
           url: http://ppt.500d.me/
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
-      
-
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
-  list: 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
     - term: 界面设计
       links:
         - title: Sketch
@@ -538,35 +723,74 @@
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
     - term: 在线工具
       links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
+      - title: 百度网盘
+        logo: https://pan.baidu.com/favicon.ico
+        url: https://pan.baidu.com/
+        description: 百度网盘 提供免费的云存储服务。
+      - title: 腾讯微云
+        logo: https://www.weiyun.com/favicon.ico
+        url: https://www.weiyun.com/
+        description: 腾讯微云 提供安全的云存储服务。
+      - title: 有道云笔记
+        logo: https://note.youdao.com/favicon.ico
+        url: https://note.youdao.com/
+        description: 有道云笔记 提供便捷的笔记管理和协作功能。
+      - title: 印象笔记
+        logo: https://www.yinxiang.com/favicon.ico
+        url: https://www.yinxiang.com/
+        description: 印象笔记 提供高效的笔记管理和协作功能。
+      - title: WPS Office
+        logo: https://www.wps.cn/favicon.ico
+        url: https://www.wps.cn/
+        description: WPS Office 提供免费的办公软件和云服务。
+      - title: Google Docs
+        logo: https://docs.google.com/favicon.ico
+        url: https://docs.google.com/
+        description: Google Docs 提供在线的文档编辑和协作功能。
+      - title: Google Translate
+        logo: https://translate.google.com/favicon.ico
+        url: https://translate.google.com/
+        description: Google Translate 提供多语言的翻译服务。
+      - title: 百度翻译
+        logo: https://fanyi.baidu.com/favicon.ico
+        url: https://fanyi.baidu.com/
+        description: 百度翻译 提供多语言的翻译服务。
+      - title: Photoshop Online
+        logo: https://www.photopea.com/favicon.ico
+        url: https://www.photopea.com/
+        description: Photoshop Online 提供在线的图像编辑功能。
+      - title: Pixlr Editor
+        logo: https://pixlr.com/favicon.ico
+        url: https://pixlr.com/
+        description: Pixlr Editor 提供在线的图像编辑功能。
+      - title: tinypng
+        url: https://tinypng.com/
+        logo: tinypng.png
+        description: Optimize your images with a perfect balance in quality and file size.
+      - title: goqr
+        url: http://goqr.me/
+        logo: goqr.png
+        description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+      - title: ezgif
+        url: https://ezgif.com
+        logo: ezgif.png
+        description: simple online GIF maker and toolset for basic animated GIF editing.
+      - title: Android 9 patch
+        url: http://inloop.github.io/shadow4android/
+        logo: Android9patch.png
+        description: Android 9-patch shadow generator fully customizable shadows.
+      - title: screen sizes
+        url: http://screensiz.es/
+        logo: screensizes.png
+        description: Viewport Sizes and Pixel Densities for Popular Devices.
+      - title: svgomg
+        url: https://jakearchibald.github.io/svgomg/
+        logo: svgomg.png
+        description: SVG 在线压缩平台。
+      - title: 稿定抠图
+        url: https://www.gaoding.com
+        logo: gaoding.png
+        description: 免费在线抠图软件,图片快速换背景-抠白底图。
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -595,79 +819,3 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-        

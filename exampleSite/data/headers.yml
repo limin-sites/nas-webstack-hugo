@@ -1,16 +1,51 @@
-- item: 首页
+- item: 聚合首页
   icon: fa fa-home
-  link: "./"
+  link: "http://nas.sqngame.com:17436/"
 
-- item: 作者
+- item: 我的地盘
   icon: fa fa-book
-  link: https://www.yuque.com/shenweiyan
+  link: ""
+  list:
+    - name: 个人网站
+      url: https://www.sqngame.com/
+    - name: B站(游戏UP)
+      url: https://space.bilibili.com/494408488
+    - name: TAPTAP(手游UP)
+      url: https://www.taptap.cn/user/9489666
+    - name: 导航页
+      url: https://nav.sqngame.com/
+    - name: 微信公众号
+      url: https://mp.weixin.qq.com/s/IOa320D49WHSqjUF-Ra2kg
+    - name: 个人网站(旧版)
+      url: https://www.sqngame.com/#/c/g/index
+    - name: 游戏首页(旧版)
+      url: https://www.sqngame.com/#/c/g/index
 
-- item: 配置
+- item: 编辑配置
+  icon: fa fa-edit
+  link: ""
+  list:
+    - name: 头部导航
+      url: https://prose.io/#limin-sites/nas-webstack-hugo/edit/main/exampleSite/data/headers.yml
+    - name: 所有导航
+      url: https://prose.io/#limin-sites/nas-webstack-hugo/edit/main/exampleSite/data/webstack.yml
+    - name: 友情链接
+      url: https://prose.io/#limin-sites/nas-webstack-hugo/edit/main/exampleSite/data/friendlinks.yml
+
+- item: 公共导航
+  icon: fa fa-leaf
+  link: "https://index.a.dealiaxy.com:9443/"
+
+- item: 关于
   icon: fa fa-cog
   link: ""
   list:
-    - name: 源码
-      url: "#"
-    - name: 图标
-      url: "#"
+    - name: 我是谁？
+      url: "https://github.com/limin-sites/nas-webstack-hugo"
+    - name: 本导航源码
+      url: "https://github.com/limin-sites/nas-webstack-hugo"
+    - name: 导航搭建教程(沈维燕)
+      url: "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"
+    - name: AllInOne
+      url: ""
+      description: 知识库、博客、导航页AllInOne
